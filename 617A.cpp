@@ -3,6 +3,7 @@
 using namespace std;
 
 
+
 void solve(){
 
     int n, moves[5] = {1, 2, 3, 4, 5};
